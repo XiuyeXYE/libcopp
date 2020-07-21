@@ -31,3 +31,12 @@
 # generated files
 /include/libcopp/utils/config/libcopp_build_features.h
 /include/libcopp/utils/config/compiler_features.h
+
+/CMakeFiles
+/**/CMakeFiles
+CMakeCache.txt
+*.cmake
+
+Makefile
+
+Testing

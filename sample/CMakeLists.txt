@@ -1,4 +1,4 @@
-
+cmake_minimum_required(VERSION 3.17)
 
 EchoWithColor(COLOR GREEN "-- Configure Sample Projects")
 
